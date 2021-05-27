@@ -1,4 +1,4 @@
-import {dispatcher} from './cirrusit-flux';
+import {dispatcher} from './cirrusit-flux2';
 
 function selectIndex(index) {
   store["selectedIndex"] = index;
